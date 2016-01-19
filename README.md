@@ -8,3 +8,6 @@
 
 #### 使用
 	pod 'EXTableLoaderView', '0.1.0'
+
+#### 补充
+* 推荐使用[SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh/)
