@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode7.2
-xcode_project: travis.xcodeproj
-xcode_scheme: travis
+xcode_project: TableLoaderViewDemo.xcodeproj
+xcode_scheme: TableLoaderViewDemo
 xcode_sdk: iphonesimulator9.2
