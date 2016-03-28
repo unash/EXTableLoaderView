@@ -1,5 +1,7 @@
 # EXTableLoaderView
 
+![](https://travis-ci.org/unash/EXTableLoaderView.svg?branch=master)
+
 #### 概要
 * 基于EGOTableViewPullRefresh完善的下拉刷新上拉加载功能库.
 * 由于原库已经好多年没更新了，搜到的一些加载刷新组件又太重了，故作此改造.
